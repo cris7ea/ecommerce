@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Skateboard",
+    "category": "sport",
+    "price": 99.89,
+    "currency": "USD",
+    "imageSrc": "skateboard.jpg",
+    "bestseller": true,
+    "featured": false
+  },
+  {
+    "name": "Mountains",
+    "category": "nature",
+    "price": 99.89,
+    "currency": "USD",
+    "imageSrc": "mountains.jpg",
+    "bestseller": true,
+    "featured": false
+  },
+  {
+    "name": "Basketball",
+    "category": "sport",
+    "price": 22.5,
+    "currency": "USD",
+    "imageSrc": "basketball.jpg",
+    "bestseller": true,
+    "featured": false
+  },
+  {
+    "name": "Running",
+    "category": "sport",
+    "price": 120.89,
+    "currency": "USD",
+    "imageSrc": "run.jpg",
+    "bestseller": true,
+    "featured": false
+  },
+  {
+    "name": "Skiing",
+    "category": "sport",
+    "price": 20.89,
+    "currency": "USD",
+    "imageSrc": "ski.jpg",
+    "bestseller": true,
+    "featured": false
+  },
+  {
+    "name": "Swimming",
+    "category": "sport",
+    "price": 44.89,
+    "currency": "USD",
+    "imageSrc": "swimming2.jpg",
+    "bestseller": true,
+    "featured": false
+  }
+]

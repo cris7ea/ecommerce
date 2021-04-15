@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Klaus Nielsen",
+    "category": "food",
+    "price": 93.89,
+    "currency": "USD",
+    "imageSrc": "klaus-nielsen.jpg",
+    "bestseller": false,
+    "featured": false
+  },
+  {
+    "name": "Raspberry and Chocolate",
+    "category": "food",
+    "price": 93.89,
+    "currency": "USD",
+    "imageSrc": "raspberry-chocolate.jpg",
+    "bestseller": false,
+    "featured": false
+  },
+  {
+    "name": "Spaghetti",
+    "category": "food",
+    "price": 93.89,
+    "currency": "USD",
+    "imageSrc": "spaghetti.jpg",
+    "bestseller": false,
+    "featured": false
+  },
+  {
+    "name": "Tomato",
+    "category": "food",
+    "price": 5.2,
+    "currency": "USD",
+    "imageSrc": "tomato.jpg",
+    "bestseller": false,
+    "featured": false
+  },
+  {
+    "name": "Forest",
+    "category": "food",
+    "price": 30.89,
+    "currency": "USD",
+    "imageSrc": "forest.jpg",
+    "bestseller": false,
+    "featured": false
+  },
+  {
+    "name": "Pizza",
+    "category": "food",
+    "price": 50.89,
+    "currency": "USD",
+    "imageSrc": "pizza.jpg",
+    "bestseller": false,
+    "featured": false
+  },
+  {
+    "name": "Nature Sand",
+    "category": "food",
+    "price": 66.89,
+    "currency": "USD",
+    "imageSrc": "nature-sand.jpg",
+    "bestseller": false,
+    "featured": false
+  },
+  {
+    "name": "Oranges",
+    "category": "food",
+    "price": 70.89,
+    "currency": "USD",
+    "imageSrc": "oranges.jpg",
+    "bestseller": false,
+    "featured": false
+  },
+  {
+    "name": "Diving",
+    "category": "food",
+    "price": 14.89,
+    "currency": "USD",
+    "imageSrc": "diving.jpg",
+    "bestseller": false,
+    "featured": false
+  },
+  {
+    "name": "Desert",
+    "category": "food",
+    "price": 229.89,
+    "currency": "USD",
+    "imageSrc": "desert.jpg",
+    "bestseller": false,
+    "featured": false
+  },
+  {
+    "name": "Yoga",
+    "category": "sport",
+    "price": 110.5,
+    "currency": "USD",
+    "imageSrc": "yoga.jpg",
+    "bestseller": false,
+    "featured": false
+  }
+]

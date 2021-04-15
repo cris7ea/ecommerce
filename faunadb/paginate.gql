@@ -1,0 +1,19 @@
+type Products {
+  name: String!
+  category: String
+  price: Float
+  currency: String
+  imageSrc: String
+  imageAlt: String
+  bestseller: Boolean
+  featured: Boolean
+  width: Int
+  height: Int
+  description: String
+  recommendations: [String]
+}
+
+type Query {
+  allProducts(featured: Boolean): [Products!]
+  productsByCategory(category: String): [Products!]
+}
